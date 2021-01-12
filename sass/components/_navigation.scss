@@ -1,0 +1,37 @@
+nav {
+    width: 90%;
+    max-width: 1200px;
+    margin: auto;
+    padding: 1.5rem 0;
+    display: flex;
+    
+    
+    .name {
+      font-weight: 700;
+      justify-self: start;
+      padding: .5rem;
+      
+      .light {
+        font-weight: 200;
+      }
+    }
+    
+    .links {
+      list-style: none;
+      display: flex;
+      margin: 0;
+      padding: 0;
+      margin: auto;
+      text-align: center;
+      justify-self: center;
+
+      .link {
+        margin-right: 3rem;
+        cursor: pointer;
+        overflow: hidden;
+        padding: .5rem;
+      }
+    }
+  }
+
+ 

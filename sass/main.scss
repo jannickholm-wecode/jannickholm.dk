@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+//global
+@import './global/fonts';
+@import './global/root';
+
+
+//components
+@import './components/navigation';
+@import './components/editor';
+
+
+//pages
+@import './pages/frontpage';
