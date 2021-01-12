@@ -115,8 +115,8 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /Users/jannickholm/Desktop/Projects/jannickholm-portfolio-2020/js/site.js */"./js/site.js");
-module.exports = __webpack_require__(/*! /Users/jannickholm/Desktop/Projects/jannickholm-portfolio-2020/sass/main.scss */"./sass/main.scss");
+__webpack_require__(/*! /Users/jannickholm/Desktop/Projects/jannickholm.dk/js/site.js */"./js/site.js");
+module.exports = __webpack_require__(/*! /Users/jannickholm/Desktop/Projects/jannickholm.dk/sass/main.scss */"./sass/main.scss");
 
 
 /***/ })
